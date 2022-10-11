@@ -7,3 +7,5 @@ $(document).ready(function () {
     $(this).css('color','red');
   });
 });
+
+// clickしたときに色が赤になる
